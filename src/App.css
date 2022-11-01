@@ -34,7 +34,7 @@
 }
 @media print {
   .content {
-    margin-top: 235px;
+    margin-top: 275px;
   }
 }
 @media (max-width: 768px) {
