@@ -3,7 +3,7 @@ import "./Contacts.css";
 export default function Contacts() {
   return (
     <div>
-      <img src="/images/avatar.png" alt="avatar" className="avatar" />
+      <img src="images/avatar.png" alt="avatar" className="avatar" />
       <div className="contacts">
         <h3 className="contacts-title">Contacts</h3>
         <p>
