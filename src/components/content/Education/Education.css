@@ -30,3 +30,8 @@
   line-height: 15px;
   color: #a8a8a8;
 }
+@media print {
+  .education-title {
+    margin-top: 0;
+  }
+}

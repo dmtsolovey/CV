@@ -45,3 +45,8 @@
     margin: 10px 0;
   }
 }
+@media print {
+  .skills-title, .skills-items{
+    color: #000000;
+  }
+}

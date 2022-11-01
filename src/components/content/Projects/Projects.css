@@ -38,7 +38,13 @@
   order: 1;
   margin: 0;
 }
-
+.projects-link {
+  text-decoration: none;
+  color: #595959;
+}
+.projects-link:hover {
+  color: #fb6d3a;
+}
 @media (max-width: 768px) {
   .projects {
     margin: 0;

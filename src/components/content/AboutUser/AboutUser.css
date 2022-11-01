@@ -27,7 +27,7 @@
 
 @media (max-width: 768px) {
   .user-name {
-    font-size: 36px;
+    font-size: 30px;
   }
   .user-description {
     margin-top: 10px;
@@ -36,3 +36,4 @@
     margin-bottom: 10px;
   }
 }
+
