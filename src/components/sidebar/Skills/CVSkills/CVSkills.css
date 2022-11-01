@@ -1,0 +1,39 @@
+.skills-title {
+  margin-left: 40px;
+  color: #ffffff;
+  margin-bottom: 0;
+}
+
+.skills-list {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  margin-top: 8px;
+  margin-left: 17px;
+  color: #fb6d3a;
+}
+
+.skills-input {
+  margin-left: 40px;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: none;
+}
+
+.skills-btn {
+  margin-left: 10px;
+  border-radius: 5px;
+  background-color: #fb6d3a;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  border: none;
+  cursor: pointer;
+  color: #ffffff;
+}
+
+.skills-items {
+  color: #ffffff;
+}

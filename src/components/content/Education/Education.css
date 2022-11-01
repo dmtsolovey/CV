@@ -1,0 +1,32 @@
+.education-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+  margin-top: 40px;
+  margin-bottom: 0;
+}
+
+.education-organization {
+  color: #fb6d3a;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.management {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+.education-time {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+}

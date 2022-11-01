@@ -1,0 +1,21 @@
+.work-block {
+  margin-top: 50px;
+}
+
+.work-title {
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.see-all {
+  border-radius: 5px;
+  border: 1px solid #595959;
+  background-color: #fb6d3a;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  cursor: pointer;
+  color: #ffffff;
+  
+}

@@ -1,0 +1,39 @@
+.avatar {
+  margin-top: 40px;
+  margin-bottom: 50px;
+  width: 370px;
+  height: 440px;
+}
+
+.contacts {
+  margin-left: 40px;
+  margin-bottom: 40px;
+}
+
+.contacts-title {
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+.contacts-type {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+  margin-right: 5px;
+}
+
+.contacts-link {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #7cb0ff;
+  opacity: 0.5;
+  text-decoration: none;
+  cursor: pointer;
+}
+.contacts-link:hover {
+  color: aqua;
+}

@@ -1,0 +1,30 @@
+.work-title-organization {
+  margin-top: 10px;
+}
+.organization-name {
+  color: #000000;
+  margin: 0;
+}
+.workCompany {
+  color: #fb6d3a;
+}
+.work-time {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+}
+
+.work-list {
+  padding-left: 17px;
+  margin-top: 10px;
+}
+
+.work-list-items {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
