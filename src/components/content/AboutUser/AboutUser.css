@@ -20,6 +20,7 @@
   line-height: 24px;
   color: #595959;
   margin-top: 25px;
-  width: 400px;
+  width: 100%;
+  max-width: 400px;
   margin-bottom: 0;
 }

@@ -15,7 +15,6 @@
 }
 
 .skills-input {
-  margin-left: 40px;
   margin-top: 10px;
   border-radius: 5px;
   border: none;
@@ -36,4 +35,13 @@
 
 .skills-items {
   color: #ffffff;
+}
+
+@media (max-width: 768px) {
+  .skills-title {
+    margin-left: 20px;
+  }
+  .skills-list {
+    margin: 10px 0;
+  }
 }

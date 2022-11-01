@@ -3,8 +3,8 @@
   margin-bottom: 50px;
   width: 370px;
   height: 440px;
+  display: block;
 }
-
 .contacts {
   margin-left: 40px;
   margin-bottom: 40px;
@@ -36,4 +36,12 @@
 }
 .contacts-link:hover {
   color: aqua;
+}
+@media (max-width: 768px) {
+  .avatar {
+    width: 320px;
+  }
+  .contacts {
+    margin-left: 20px;
+  }
 }
