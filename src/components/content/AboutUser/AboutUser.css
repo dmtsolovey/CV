@@ -24,3 +24,15 @@
   max-width: 400px;
   margin-bottom: 0;
 }
+
+@media (max-width: 768px) {
+  .user-name {
+    font-size: 36px;
+  }
+  .user-description {
+    margin-top: 10px;
+  }
+  .user-title {
+    margin-bottom: 10px;
+  }
+}

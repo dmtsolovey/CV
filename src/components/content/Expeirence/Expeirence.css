@@ -17,5 +17,9 @@
   line-height: 16px;
   cursor: pointer;
   color: #ffffff;
-  
+}
+@media (max-width: 768px) {
+  .work-block {
+    margin: 0;
+  }
 }

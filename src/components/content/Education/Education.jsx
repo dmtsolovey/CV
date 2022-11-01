@@ -11,7 +11,7 @@ export default function Education() {
       </div>
       <div>
         <h4 className="education-organization">FreeCodeCamp Online Courses</h4>
-        <h5 className="management">Learn HTML5 and SCC3</h5>
+        <h5 className="management">Learn HTML5 and CSS3</h5>
       </div>
       <div>
         <h4 className="education-organization">Codewars tasks (5 kyu)</h4>

@@ -29,7 +29,7 @@ const projects = [
 
 export default function Projects() {
   const listItem = projects.map((item) => (
-    <li key={item.interface} className="projects-item">
+    <li key={item.text} className="projects-item">
       <div className="projects-content">
         <p className="projects-text">{item.text}</p>
         <span className="projects-interface">
