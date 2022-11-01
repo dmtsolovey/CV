@@ -3,7 +3,7 @@ import "./Contacts.css";
 export default function Contacts() {
   return (
     <div>
-      <img src="/images/avatar.png" alt="avatar" className="avatar" />
+      <img src="images/avatar.png" alt="avatar" className="avatar" />
       <div className="contacts">
         <h3 className="contacts-title">Contacts</h3>
         <p>
@@ -14,10 +14,7 @@ export default function Contacts() {
         </p>
         <p>
           <span className="contacts-type">E:</span>
-          <a
-            href="mailto:dmt.solovey@gmail.com"
-            className="contacts-link"
-          >
+          <a href="mailto:dmt.solovey@gmail.com" className="contacts-link">
             dmt.solovey@gmail.com
           </a>
         </p>
