@@ -39,6 +39,7 @@
 @media (max-width: 768px) {
   .avatar {
     margin-top: 0;
+    margin-bottom: 20px;
   }
   .contacts {
     margin-left: 20px;
